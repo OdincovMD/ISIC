@@ -27,7 +27,7 @@ ISIC (International Skin Imaging Collaboration) – это глобальная 
     ```bash
     pip install -r requirements.txt
     ```
-6. Загрузите предобученные веса из Google Drive и поместите их в корневую директорию проекта.
+6. Загрузите предобученные веса из [Google Drive](https://drive.google.com/drive/folders/1zYHrDb_QE6EOemabioaZkiTXgXzIwpb5?usp=sharing) и поместите их в корневую директорию проекта.
 
 7. Подготовьте папку test со следующей структурой:
     ```pathtext
